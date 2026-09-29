@@ -1,0 +1,6 @@
+{
+  "name": "Verde · Organic Kitchen & Healthy Eatery",
+  "description": "Artisan farm-to-table healthy kitchen featuring chef-crafted power bowls, super salads, cold-pressed juices, and customized nutrition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
